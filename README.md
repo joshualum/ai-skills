@@ -9,12 +9,12 @@ This workflow adapts Peter Yang's AI-native SaaS building process to leverage cu
 
 ## Workflow Overview
 
-Phase 1: Problem Discovery ───► Phase 2: Visual Identity ───► Phase 3: Screen Prototyping
-(ChatGPT / Codex CLI)           (ChatGPT + design-md)        (v0.dev / Codex Web)
-│                                                           │
-▼                                                           ▼
-Phase 6: Build & Test ◄────── Phase 5: Complete Screens ◄───── Phase 4: HTML Spec
-(Codex CLI / Cursor / Evals)     (v0.dev / Codex UI)            (spec.md Synthesis)
+Phase 1: Problem Discovery (ChatGPT / Codex CLI)
+Phase 2: Visual Identity (ChatGPT + design-md)
+Phase 3: Screen Prototyping (v0.dev / Codex Web)
+Phase 4: HTML Spec (spec.md Synthesis)
+Phase 5: Complete Screens (v0.dev / Codex UI)
+Phase 6: Build & Test (Codex CLI / Cursor / Evals)
 
 ---
 
